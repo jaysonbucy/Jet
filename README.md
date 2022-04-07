@@ -7,3 +7,4 @@ A top down, side scrolling game of avoidance. Using the PyGame tutorial located 
 `python main.py` to run the game after you download it.
 
 https://www.python.org/downloads/ to get Python 3
+
